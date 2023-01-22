@@ -12,7 +12,7 @@ website:
         text: Talks & Posters
       - icon: file-pdf
         text: Resume
-        href: https://github.com/giuseppealfonzetti
+        href: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf
   page-footer: 
     left: "Website made with [Quarto](https://quarto.org/) and hosted on [GitHub](https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io)." 
     right: 

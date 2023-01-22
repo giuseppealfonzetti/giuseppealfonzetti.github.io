@@ -12,7 +12,7 @@ about:
       href: https://github.com/giuseppealfonzetti
     - icon: file-pdf
       text: Resume
-      href: https://github.com/giuseppealfonzetti
+      href: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf
 ---
 
 ## About me
