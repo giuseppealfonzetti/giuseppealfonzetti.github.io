@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 
-## Proceedings:
+## Proceedings
 ### 2022:
 - **Alfonzetti, G.**, Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. <p class="text-primary">*Proceedings of the 36th International Workshop on Statistical Modelling.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN 978-88-5511-309-0](https://www.openstarts.units.it/handle/10077/33740)</button>
