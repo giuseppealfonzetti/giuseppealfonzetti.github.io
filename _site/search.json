@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giuseppe Alfonzetti",
+    "section": "",
+    "text": "Hi there! My name is Giuseppe, and I am a PhD student at the Department of Statistical Sciences of the University of Padova.\nI’m particularly interested in computational methods for the estimation of latent variable models, with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.\nDuring my PhD, I visited the Psychometric Research Group at the London School of Economics, where I met some great people and started working on computational methods for psychometrics applications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Giuseppe Alfonzetti",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Giuseppe Alfonzetti",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Posters",
+    "section": "",
+    "text": "A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Alfonzetti, G., Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
+  },
+  {
+    "objectID": "publications.html#proceedings",
+    "href": "publications.html#proceedings",
+    "title": "Publications",
+    "section": "Proceedings:",
+    "text": "Proceedings:\nAlfonzetti, G., Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. Proceedings of the 36th International Workshop on Statistical Modelling\nAlfonzetti, G., Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. Book of Short Papers SIS2022\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. Book of Short Papers ASA2019"
+  },
+  {
+    "objectID": "talks.html#posters",
+    "href": "talks.html#posters",
+    "title": "Talks & Posters",
+    "section": "Posters",
+    "text": "Posters\n\n2022:\n\nA stochastic optimization algorithm for pairwise likelihood estimation of factor models with ordinal data. Alfonzetti, G., Bellio, R., Chen Y., Moustaki, I.\n\nStatistical methods and models for complex data, Padua, Italy. September, 2022.\n\nReliable generalized linear latent variable models estimation via simulated maximum likelihood. Alfonzetti, G., Bellio, R.\n\nIWSM, Trieste, Italy. July, 2022."
+  },
+  {
+    "objectID": "talks.html#seminars",
+    "href": "talks.html#seminars",
+    "title": "Talks & Posters",
+    "section": "Seminars",
+    "text": "Seminars\n\n2022:\n\nOn the estimation of latent trait models.\n\nSocial Statistics meetings, London School of Economics, London, UK. February 17, 2022."
+  }
+]

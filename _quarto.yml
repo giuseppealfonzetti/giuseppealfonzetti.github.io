@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Giuseppe Alfonzetti"
+  navbar:
+    left:
+      # - href: index.qmd
+      #   text: Home
+      - publications.qmd
+      - href: talks.qmd
+        text: Talks & Posters
+      - icon: file-pdf
+        text: Resume
+        href: https://github.com/giuseppealfonzetti
+  page-footer: 
+    left: "Website made with [Quarto](https://quarto.org/) and hosted on [GitHub](https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io)." 
+    right: 
+      - icon: github
+        href: https://github.com/giuseppealfonzetti
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/giuseppealfonzetti/
+      - icon: envelope
+        href: mailto:giuseppe.alfonzetti@phd.unipd.it
+
+format:
+  html:
+    theme: 
+      light: journal
+      dark: solar
+    css: styles.css
+    toc: true
+
+editor: source
+

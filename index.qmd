@@ -1,0 +1,25 @@
+---
+title: "Giuseppe Alfonzetti"
+about:
+  template: trestles
+  image: resources/profile/profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/giuseppealfonzetti/
+    - icon: github
+      text: Github
+      href: https://github.com/giuseppealfonzetti
+    - icon: file-pdf
+      text: Resume
+      href: https://github.com/giuseppealfonzetti
+---
+
+## About me
+Hi there! My name is Giuseppe, and I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/) of the University of Padova.
+
+I'm particularly interested in computational methods for the estimation of latent variable models, with applications in psychometrics and social sciences.
+My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.
+
+During my PhD, I visited [the Psychometric Research Group](https://psychometricslab.com/) at the [London School of Economics](https://www.lse.ac.uk/statistics), where I met some great people and started working on computational methods for psychometrics applications. 
+

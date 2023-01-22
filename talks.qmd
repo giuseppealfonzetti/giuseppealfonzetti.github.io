@@ -1,0 +1,19 @@
+---
+title: "Talks & Posters"
+---
+
+## Talks
+### 2022:
+- A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. <p class="text-primary"> *COMPSTAT2022 (Invited), Bologna, Italy. August, 2022.* <p>
+
+- Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*SIS2022, Caserta, Italy. June, 2022.*<p>
+
+## Posters
+### 2022:
+- A stochastic optimization algorithm for pairwise likelihood estimation of factor models with ordinal data. **Alfonzetti, G.**, Bellio, R., Chen Y., Moustaki, I. <p class="text-primary">*Statistical methods and models for complex data, Padua, Italy. September, 2022.*<p>
+
+- Reliable generalized linear latent variable models estimation via simulated maximum likelihood. **Alfonzetti, G.**, Bellio, R. <p class="text-primary">*IWSM, Trieste, Italy. July, 2022.*<p>
+
+## Seminars
+### 2022:
+- On the estimation of latent trait models. <p class="text-primary">*Social Statistics meetings, London School of Economics, London, UK. February 17, 2022.*<p>
