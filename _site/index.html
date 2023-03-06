@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -81,13 +81,17 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">Publications</a>
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html">Talks &amp; Posters</a>
+    <a class="nav-link" href="./talks.html">
+ <span class="menu-text">Talks &amp; Posters</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf">Resume</a>
+    <a class="nav-link" href="https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf"><i class="bi bi-file-pdf" role="img">
+</i> 
+ <span class="menu-text">Resume</span></a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -124,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
   </a>
-  <a href="https://github.com/giuseppealfonzetti" class="about-link">
+  <a href="https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf" class="about-link">
     <i class="bi bi-file-pdf"></i>
      <span class="about-link-text">Resume</span>
   </a>
@@ -133,8 +137,8 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <section id="about-me" class="level2">
 <h2 data-anchor-id="about-me">About me</h2>
-<p>Hi there! My name is Giuseppe, and I am a PhD student at the <a href="https://www.stat.unipd.it/">Department of Statistical Sciences</a> of the University of Padova.</p>
-<p>I’m particularly interested in computational methods for the estimation of latent variable models, with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.</p>
+<p>Hi there! My name is Giuseppe, and I am Research Assistant in Statistics at the <a href="https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/dies">University of Udine</a>. I pursued my PhD at the <a href="https://www.stat.unipd.it/">Department of Statistical Sciences</a> of the University of Padova, and my thesis defence is planned for Spring 2023.</p>
+<p>I’m particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.</p>
 <p>During my PhD, I visited <a href="https://psychometricslab.com/">the Psychometric Research Group</a> at the <a href="https://www.lse.ac.uk/statistics">London School of Economics</a>, where I met some great people and started working on computational methods for psychometrics applications.</p>
 
 
@@ -274,7 +278,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   // Switch to dark mode if need be
   if (hasAlternateSentinel()) {
     toggleColorMode(true);
-  } 
+  } else {
+    toggleColorMode(false);
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -289,7 +295,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -325,24 +348,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

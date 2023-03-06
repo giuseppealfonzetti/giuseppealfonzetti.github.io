@@ -16,9 +16,10 @@ about:
 ---
 
 ## About me
-Hi there! My name is Giuseppe, and I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/) of the University of Padova.
+Hi there! My name is Giuseppe, and I am Research Assistant in Statistics at the [University of Udine](https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/dies). 
+I pursued my PhD at the [Department of Statistical Sciences](https://www.stat.unipd.it/) of the University of Padova, and my thesis defence is planned for Spring 2023.
 
-I'm particularly interested in computational methods for the estimation of latent variable models, with applications in psychometrics and social sciences.
+I'm particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences.
 My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.
 
 During my PhD, I visited [the Psychometric Research Group](https://psychometricslab.com/) at the [London School of Economics](https://www.lse.ac.uk/statistics), where I met some great people and started working on computational methods for psychometrics applications. 
