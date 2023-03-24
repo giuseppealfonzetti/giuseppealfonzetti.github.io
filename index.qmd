@@ -16,7 +16,7 @@ about:
 ---
 
 ## About me
-Hi there! My name is Giuseppe, and I am Research Assistant in Statistics at the [University of Udine](https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/dies). 
+Hi there! My name is Giuseppe, and I am a postdoctoral Research Assistant in Statistics at the [University of Udine](https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/dies). 
 I pursued my PhD at the [Department of Statistical Sciences](https://www.stat.unipd.it/) of the University of Padova, and my thesis defence is planned for Spring 2023.
 
 I'm particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences.
