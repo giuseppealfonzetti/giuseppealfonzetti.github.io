@@ -3,6 +3,9 @@ title: "Talks & Posters"
 ---
 
 ## Talks
+### 2023:
+- Efficient stochastic learning of graphical structures for large-scale mixed data surveys <p class="text-primary"> *IWSM2023, Dortmund, Germany, July, 2023.* <p>
+
 ### 2022:
 - A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. <p class="text-primary"> *COMPSTAT2022 (Invited), Bologna, Italy. August, 2022.* <p>
 

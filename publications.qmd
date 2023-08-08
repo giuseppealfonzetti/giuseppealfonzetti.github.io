@@ -4,11 +4,15 @@ title: "Publications"
 
 
 ## Proceedings
+### 2023:
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary">*Proceedings of the 37th International Workshop on Statistical Modelling.*<p>
+<button type="button" class="btn btn-outline-primary">[ISBN 78-3-947323-42-5](https://iwsm2023.statistik.tu-dortmund.de/storages/iwsm2023-statistik/r/dokumente/IWSM_2023_Conference_Proceedings.pdf)</button>
+
 ### 2022:
-- **Alfonzetti, G.**, Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. <p class="text-primary">*Proceedings of the 36th International Workshop on Statistical Modelling.*<p>
+- **Alfonzetti, G.**, Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. <p class="text-primary">*Proceedings of the 36th International Workshop on Statistical Modelling.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN 978-88-5511-309-0](https://www.openstarts.units.it/handle/10077/33740)</button>
 
-- **Alfonzetti, G.**, Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
+- **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN  978-88-9193-231-0](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>
 
 - **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>

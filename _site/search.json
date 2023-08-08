@@ -32,21 +32,21 @@
     "href": "talks.html",
     "title": "Talks & Posters",
     "section": "",
-    "text": "A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Efficient stochastic learning of graphical structures for large-scale mixed data surveys\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Alfonzetti, G., Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nProceedings of the 37th International Workshop on Statistical Modelling.\n\n\nISBN 78-3-947323-42-5\n\n\n\n\n\n\nAlfonzetti, G., Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
   },
   {
     "objectID": "publications.html#proceedings",
     "href": "publications.html#proceedings",
     "title": "Publications",
     "section": "",
-    "text": "Alfonzetti, G., Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nProceedings of the 37th International Workshop on Statistical Modelling.\n\n\nISBN 78-3-947323-42-5\n\n\n\n\n\n\nAlfonzetti, G., Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
   },
   {
     "objectID": "talks.html#posters",
@@ -74,6 +74,6 @@
     "href": "talks.html#talks",
     "title": "Talks & Posters",
     "section": "",
-    "text": "A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Efficient stochastic learning of graphical structures for large-scale mixed data surveys\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   }
 ]
