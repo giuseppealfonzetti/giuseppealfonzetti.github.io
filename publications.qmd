@@ -1,10 +1,13 @@
 ---
 title: "Publications"
 ---
-
+## Working Papers
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). When composite likelihood meets stochastic approximations. <p><button type="button" class="btn btn-outline-primary">[arXiv](https://arxiv.org/abs/2310.04165)</button>
 
 ## Proceedings
 ### 2023:
+- **Alfonzetti, G.**, Grassetti, L., Rizzi, L., (2023). Propensity towards master's degree: choices of northern students after bas? <p class="text-primary">*Book of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.*<p><button type="button" class="btn btn-outline-primary">[ISBN 978-88-9193-563-2](https://air.uniud.it/handle/11390/1262890)</button>
+
 - **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary">*Proceedings of the 37th International Workshop on Statistical Modelling.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN 78-3-947323-42-5](https://iwsm2023.statistik.tu-dortmund.de/storages/iwsm2023-statistik/r/dokumente/IWSM_2023_Conference_Proceedings.pdf)</button>
 
