@@ -1,10 +1,19 @@
 ---
 title: "Publications"
 ---
+## Peer-reviewed papers
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p> <p><div>
+<button type="button" class="btn btn-outline-primary">[doi](https://doi.org/10.1111/bmsp.12347)</button>  
+<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experimentsSTOPLFA/tree/main)</button>
+</div>
+
 ## Working Papers
 - **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). When composite likelihood meets stochastic approximations. <p><button type="button" class="btn btn-outline-primary">[arXiv](https://arxiv.org/abs/2310.04165)</button>
 
 ## Proceedings
+### 2024:
+- **Alfonzetti, G.**, Bellio, R., (2024). Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary">*Proceedings of the Statistics and Data Science 2024 Conference.*<p><button type="button" class="btn btn-outline-primary">[ISBN 978-88-5509-645-4](https://unipapress.com/book/proceedings-of-the-statistics-and-data-science-2024-conference/)</button>
+
 ### 2023:
 - **Alfonzetti, G.**, Grassetti, L., Rizzi, L., (2023). Propensity towards master's degree: choices of northern students after bas? <p class="text-primary">*Book of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.*<p><button type="button" class="btn btn-outline-primary">[ISBN 978-88-9193-563-2](https://air.uniud.it/handle/11390/1262890)</button>
 
@@ -18,5 +27,6 @@ title: "Publications"
 - **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN  978-88-9193-231-0](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>
 
+### 2019:
 - **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>
 <button type="button" class="btn btn-outline-primary">[ISBN  978-88-5495-135-8](https://air.uniud.it/handle/11390/1168519?mode=complete)</button>

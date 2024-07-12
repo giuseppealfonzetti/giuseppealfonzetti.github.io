@@ -3,6 +3,10 @@ title: "Talks & Posters"
 ---
 
 ## Talks
+
+### 2024:
+- Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy, April, 2024.* <p>
+
 ### 2023:
 - Enhancing public decision making via large-scale graphical model <p class="text-primary"> *AQMAPPS2023, Milano, Italy, October, 2023.* <p>
 - Propensity towards master's degree: choices of northern students after bas? <p class="text-primary"> *CLADAG2023, Salerno, Italy, September, 2023.* <p>

@@ -27,7 +27,7 @@ format:
   html:
     theme: 
       light: journal
-      dark: solar
+      dark: slate
     css: styles.css
     toc: true
 
