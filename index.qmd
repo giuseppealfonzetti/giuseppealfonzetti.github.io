@@ -4,15 +4,15 @@ about:
   template: trestles
   image: resources/profile/profile.jpg
   links:
-    - icon: linkedin
-      text: LinkedIn
+    - text: "{{< fa brands orcid >}}"
+      href: https://orcid.org/0000-0002-6118-6553
+    - text: "{{< fa brands linkedin >}}"
       href: https://www.linkedin.com/in/giuseppealfonzetti/
-    - icon: github
-      text: Github
+    - text: "{{< fa brands github >}}"
       href: https://github.com/giuseppealfonzetti
-    - icon: file-pdf
-      text: Resume
+    - text: "{{< fa file-pdf >}}"
       href: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf
+   
 ---
 
 ## About me
