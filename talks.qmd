@@ -5,6 +5,10 @@ title: "Talks & Posters"
 ## Talks
 
 ### 2024:
+- Pairwise stochastic approximation forconfirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic, July, 2024.* <p>
+<p> <p><div>
+<button type="button" class="btn btn-outline-primary">[slides](https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/slides/alfonzetti_IMPS2024.pdf)</button>  
+</div>
 - Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy, April, 2024.* <p>
 
 ### 2023:
