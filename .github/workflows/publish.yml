@@ -2,9 +2,9 @@
 #   workflow_dispatch:
 #   push:
 #     branches: main
-# 
+#
 # name: Quarto Publish
-# 
+#
 # jobs:
 #   build-deploy:
 #     runs-on: ubuntu-latest
@@ -13,10 +13,10 @@
 #     steps:
 #       - name: Check out repository
 #         uses: actions/checkout@v3
-# 
+#
 #       - name: Set up Quarto
 #         uses: quarto-dev/quarto-actions/setup@v2
-# 
+#
 #       - name: Render and Publish
 #         uses: quarto-dev/quarto-actions/publish@v2
 #         with:
@@ -54,23 +54,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v4
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render
         uses: quarto-dev/quarto-actions/render@v2
-        
+
       - name: Setup Pages
         uses: actions/configure-pages@v2
-        
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload quarto render output directory
           path: '_site'
-          
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
