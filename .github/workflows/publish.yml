@@ -12,7 +12,7 @@
 #       contents: write
 #     steps:
 #       - name: Check out repository
-#         uses: actions/checkout@v3
+#         uses: actions/checkout@v4
 #
 #       - name: Set up Quarto
 #         uses: quarto-dev/quarto-actions/setup@v2
@@ -66,7 +66,7 @@ jobs:
         uses: actions/configure-pages@v2
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           # Upload quarto render output directory
           path: '_site'
