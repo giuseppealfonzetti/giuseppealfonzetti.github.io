@@ -4,21 +4,28 @@
     "href": "index.html",
     "title": "Giuseppe Alfonzetti",
     "section": "",
-    "text": "Hi there! My name is Giuseppe, and I am a PhD student at the Department of Statistical Sciences of the University of Padova.\nI’m particularly interested in computational methods for the estimation of latent variable models, with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.\nDuring my PhD, I visited the Psychometric Research Group at the London School of Economics, where I met some great people and started working on computational methods for psychometrics applications."
+    "text": "Hi there! My name is Giuseppe, and I am a postdoctoral Research Assistant in Statistics at the University of Udine.\nI’m particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.\nI pursued my PhD at the Department of Statistical Sciences of the University of Padova, with the thesis “Stochastic estimation methods for latent variable models”. In 2022, I visited the Psychometric Research Group at the London School of Economics, where I started working on computational methods for psychometrics applications."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Giuseppe Alfonzetti",
     "section": "",
-    "text": "Alfonzetti, G., Bellio R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
+    "text": "Hi there! My name is Giuseppe, and I am a postdoctoral Research Assistant in Statistics at the University of Udine.\nI’m particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.\nI pursued my PhD at the Department of Statistical Sciences of the University of Padova, with the thesis “Stochastic estimation methods for latent variable models”. In 2022, I visited the Psychometric Research Group at the London School of Economics, where I started working on computational methods for psychometrics applications."
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks & Posters",
     "section": "",
-    "text": "A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Talks & Posters",
+    "section": "",
+    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "talks.html#posters",
@@ -33,5 +40,33 @@
     "title": "Talks & Posters",
     "section": "Seminars",
     "text": "Seminars\n\n2022:\n\nOn the estimation of latent trait models.\n\nSocial Statistics meetings, London School of Economics, London, UK. February 17, 2022."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub\n\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nJournal of the American Statistical Association.\n\n\n\n\ndoi\n\n\nGitHub"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-papers",
+    "href": "publications.html#peer-reviewed-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub\n\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nJournal of the American Statistical Association.\n\n\n\n\ndoi\n\n\nGitHub"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nAlfonzetti, G., Bellio R., (2025+). Scalable inference via averaged Robbins-Monro bootstrap."
+  },
+  {
+    "objectID": "publications.html#proceedings",
+    "href": "publications.html#proceedings",
+    "title": "Publications",
+    "section": "Proceedings",
+    "text": "Proceedings\n\n2024:\n\nAlfonzetti, G., Bellio, R., (2024). Scalable bootstrap inference via averaged Robbins-Monro approximations.\n\nProceedings of the Statistics and Data Science 2024 Conference.\n\n\nISBN 978-88-5509-645-4\n\n\n\n\n2023:\n\nAlfonzetti, G., Grassetti, L., Rizzi, L., (2023). Propensity towards master’s degree: choices of northern students after bas?\n\nBook of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.\n\n\nISBN 978-88-9193-563-2\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nProceedings of the 37th International Workshop on Statistical Modelling.\n\n\nISBN 78-3-947323-42-5\n\n\n\n\n2022:\n\nAlfonzetti, G., Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\n\nISBN 978-88-5511-309-0\n\nAlfonzetti, G., Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\n\nISBN 978-88-9193-231-0\n\n\n\n\n2019:\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019.\n\n\nISBN 978-88-5495-135-8"
   }
 ]

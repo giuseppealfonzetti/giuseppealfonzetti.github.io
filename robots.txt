@@ -1,1 +1,1 @@
-Sitemap: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/sitemap.xml
+Sitemap: https://giuseppealfonzetti.github.io/sitemap.xml
