@@ -32,14 +32,14 @@
     "href": "talks.html",
     "title": "Talks & Posters",
     "section": "",
-    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub"
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub\n\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nJournal of the American Statistical Association.\n\n\n\n\ndoi\n\n\nGitHub"
   },
   {
     "objectID": "publications.html#proceedings",
@@ -74,20 +74,20 @@
     "href": "talks.html#talks",
     "title": "Talks & Posters",
     "section": "",
-    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Pairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation forconfirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 (Invited), Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "publications.html#working-papers",
     "href": "publications.html#working-papers",
     "title": "Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2023). When composite likelihood meets stochastic approximations.\n\n\narXiv"
+    "text": "Working Papers\n\nAlfonzetti, G., Bellio R., (2025+). Scalable inference via averaged Robbins-Monro bootstrap."
   },
   {
     "objectID": "publications.html#peer-reviewed-papers",
     "href": "publications.html#peer-reviewed-papers",
     "title": "Publications",
     "section": "",
-    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub"
+    "text": "Alfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\n\n\n\ndoi\n\n\nGitHub\n\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nJournal of the American Statistical Association.\n\n\n\n\ndoi\n\n\nGitHub"
   }
 ]

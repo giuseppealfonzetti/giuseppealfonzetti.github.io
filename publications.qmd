@@ -2,13 +2,19 @@
 title: "Publications"
 ---
 ## Peer-reviewed papers
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p> <p><div>
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p> <p><div>
 <button type="button" class="btn btn-outline-primary">[doi](https://doi.org/10.1111/bmsp.12347)</button>  
 <button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experimentsSTOPLFA/tree/main)</button>
 </div>
 
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2024). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*Journal of the American Statistical Association.*<p> <p><div>
+<button type="button" class="btn btn-outline-primary">[doi](https://doi.org/10.1080/01621459.2024.2436219)</button>  
+<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experiments_stoCL/tree/main)</button>
+</div>
+
 ## Working Papers
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). When composite likelihood meets stochastic approximations. <p><button type="button" class="btn btn-outline-primary">[arXiv](https://arxiv.org/abs/2310.04165)</button>
+- **Alfonzetti, G.**, Bellio R., (2025+). Scalable inference via averaged Robbins-Monro
+bootstrap. 
 
 ## Proceedings
 ### 2024:
