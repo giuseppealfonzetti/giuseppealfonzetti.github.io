@@ -12,7 +12,7 @@ bootstrap.
 <button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experimentsSTOPLFA/tree/main)</button>
 </div>
 
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2024). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association.*<p> <p><div>
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association.*<p> <p><div>
 <button type="button" class="btn btn-outline-primary">[Journal](https://doi.org/10.1080/01621459.2024.2436219)</button>  
 <button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experiments_stoCL/tree/main)</button>
 </div>
