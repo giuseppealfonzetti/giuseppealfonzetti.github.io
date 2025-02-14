@@ -4,12 +4,17 @@ title: "Talks & Posters"
 
 ## Talks
 
+### 2025:
+- A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium, February, 2025.*
+<p><div>
+<button type="button" class="btn btn-outline-primary">[R Package ](https://giuseppealfonzetti.github.io/lavaan.pl/)</button>  
+</div>
 ### 2024:
 - Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *CCDA2024, London, UK, October, 2024.*
-- Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic, July, 2024.* <p>
-<p> <p><div>
+- Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic, July, 2024.* <p><div>
 <button type="button" class="btn btn-outline-primary">[slides](https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/slides/alfonzetti_IMPS2024.pdf)</button>  
 </div>
+
 - Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy, April, 2024.* <p>
 
 ### 2023:
