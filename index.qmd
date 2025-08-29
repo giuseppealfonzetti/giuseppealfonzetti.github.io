@@ -10,9 +10,6 @@ about:
       href: https://www.linkedin.com/in/giuseppealfonzetti/
     - text: "{{< fa brands github >}}"
       href: https://github.com/giuseppealfonzetti
-    - text: "{{< fa file-pdf >}}"
-      href: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf
-   
 ---
 
 ## About me
