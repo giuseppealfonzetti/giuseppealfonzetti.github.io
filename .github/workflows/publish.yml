@@ -62,6 +62,10 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Install WeasyPrint dependencies
+        run: |
+          sudo apt-get install -y weasyprint
+
       - name: Render
         uses: quarto-dev/quarto-actions/render@v2
 
