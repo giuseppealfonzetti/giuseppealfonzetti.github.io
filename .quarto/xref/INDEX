@@ -10,5 +10,9 @@
   },
   "talks.qmd": {
     "talks.html": "fe0f3488"
+  },
+  "cv.qmd": {
+    "cv.html": "661d3a7d",
+    "cv.pdf": "64020c9b"
   }
 }

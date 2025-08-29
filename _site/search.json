@@ -39,14 +39,14 @@
     "href": "talks.html",
     "title": "Talks & Posters",
     "section": "",
-    "text": "Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited)\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium, February, 2025.\n\n\n\nR Package\n\n\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data (Invited)\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. (Invited)\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited)\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\nWhen composite likelihood meets stochastic approximations\n\nCa’ Foscari University of Venice, Italy. March, 2025.\n\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium, February, 2025.\n\n\n\nR Package\n\n\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data (Invited)\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. (Invited)\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "talks.html#talks",
     "href": "talks.html#talks",
     "title": "Talks & Posters",
     "section": "",
-    "text": "Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited)\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium, February, 2025.\n\n\n\nR Package\n\n\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data (Invited)\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. (Invited)\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+    "text": "Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited)\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\nWhen composite likelihood meets stochastic approximations\n\nCa’ Foscari University of Venice, Italy. March, 2025.\n\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium, February, 2025.\n\n\n\nR Package\n\n\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data (Invited)\n\nCCDA2024, London, UK, October, 2024.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic, July, 2024.\n\n\n\nslides\n\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy, April, 2024.\n\n\n\n\n\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy, September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany, July, 2023.\n\n\n\n\n\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. (Invited)\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   },
   {
     "objectID": "talks.html#posters",
@@ -75,5 +75,96 @@
     "title": "Giuseppe Alfonzetti",
     "section": "",
     "text": "Hi there! My name is Giuseppe, and I am a postdoctoral Research Assistant in Statistics at the University of Udine.\nI’m particularly interested in computational methods for estimating latent variable models with applications in psychometrics and social sciences. My current research focuses on combining stochastic approximations with composite likelihoods to scale the estimation of such models to high-dimensional settings.\nI pursued my PhD at the Department of Statistical Sciences of the University of Padova, with the thesis “Stochastic estimation methods for latent variable models”. In 2022, I visited the Psychometric Research Group at the London School of Economics, where I started working on computational methods for psychometrics applications."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "giuseppealfonzetti@uniud.it"
+  },
+  {
+    "objectID": "cv.html#academic-positions",
+    "href": "cv.html#academic-positions",
+    "title": "Curriculum Vitae",
+    "section": "Academic positions",
+    "text": "Academic positions\nPostdoctoral researcher  Univeristy of Udine 2023 — ongoing"
+  },
+  {
+    "objectID": "cv.html#articles-in-refereed-journals",
+    "href": "cv.html#articles-in-refereed-journals",
+    "title": "Curriculum Vitae",
+    "section": "Articles in refereed journals",
+    "text": "Articles in refereed journals\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nBritish Journal of Mathematical and Statistical Psychology.\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation\n\nJournal of the American Statistical Association."
+  },
+  {
+    "objectID": "cv.html#invited-talks",
+    "href": "cv.html#invited-talks",
+    "title": "Curriculum Vitae",
+    "section": "Invited Talks",
+    "text": "Invited Talks\n\nFast M-Estimation for Exploratory Generalized Linear Latent Variable Models\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\n\nWhen composite likelihood meets stochastic approximations\n\nCa’ Foscari University of Venice, Italy. March, 2025.\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nCCDA2024, London, UK. October, 2024.\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022."
+  },
+  {
+    "objectID": "cv.html#publications-in-monographs",
+    "href": "cv.html#publications-in-monographs",
+    "title": "Curriculum Vitae",
+    "section": "Publications in monographs",
+    "text": "Publications in monographs\n\nAlfonzetti, G., Rossi, L., Zorzetto, D., Mealli, F. (2025). Model Free Estimation of Causal Effects of Different Stimuli on Neuron Activities. In Advances in Neural Data Science (Canale, A., Luati, A., Mazzuco, S., Piccarreta, R., Sartori, N., Secchi, P., editors). Springer."
+  },
+  {
+    "objectID": "cv.html#proceedings",
+    "href": "cv.html#proceedings",
+    "title": "Curriculum Vitae",
+    "section": "Proceedings",
+    "text": "Proceedings\n\nAlfonzetti, G., Bellio, R., (2024). Scalable bootstrap inference via averaged Robbins-Monro approximations.\n\nProceedings of the Statistics and Data Science 2024 Conference.\n\nAlfonzetti, G., Grassetti, L., Rizzi, L., (2023). Propensity towards master’s degree: choices of northern students after bas?\n\nBook of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.\n\nAlfonzetti, G., Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nProceedings of the 37th International Workshop on Statistical Modelling.\n\nAlfonzetti, G., Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood.\n\nProceedings of the 36th International Workshop on Statistical Modelling.\n\nAlfonzetti, G., Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nBook of Short Papers SIS2022.\n\nAlfonzetti, G., Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis.\n\nBook of Short Papers ASA2019."
+  },
+  {
+    "objectID": "cv.html#conference-talks",
+    "href": "cv.html#conference-talks",
+    "title": "Curriculum Vitae",
+    "section": "Conference talks",
+    "text": "Conference talks\n\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium. February, 2025.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic. July, 2024.\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy. April, 2024.\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy. September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany. July, 2023.\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy. September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany. July, 2023.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
+  },
+  {
+    "objectID": "cv.html#posters",
+    "href": "cv.html#posters",
+    "title": "Curriculum Vitae",
+    "section": "Posters",
+    "text": "Posters\n\nA stochastic optimization algorithm for pairwise likelihood estimation of factor models with ordinal data. Alfonzetti, G., Bellio, R., Chen Y., Moustaki, I.\n\nStatistical methods and models for complex data, Padua, Italy. September, 2022.\n\nReliable generalized linear latent variable models estimation via simulated maximum likelihood. Alfonzetti, G., Bellio, R.\n\nIWSM, Trieste, Italy. July, 2022."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D – Statistics  Univeristy of Padova 2019 — 2023\n\nThesis topic: Stochastic estimation methods for latent variable models.\nAdvisors: Ruggero Bellio, Irini Moustaki (Co- advisor) and Yunxiao Chen (Co-advisor).\nFocus on: Factor models; Composite likelihood; Stochastic optimisation\n\nM.Sc. – Economics  Univeristy of Udine 2019 — 2023\n\nThesis topic: Deepening Spatial Heterogeneity of Elderly Healthcare Burden Evolution.\nAdvisor: Laura Rizzi.\nDouble degree program with Karl-Franzens- Universität - Graz, Austria."
+  },
+  {
+    "objectID": "cv.html#visiting-periods",
+    "href": "cv.html#visiting-periods",
+    "title": "Curriculum Vitae",
+    "section": "Visiting Periods",
+    "text": "Visiting Periods\nDepartment of Statistics of the London School of Eco-nomics. Visiting researcher under the supervision of Prof.Irini Moustaki and Dr. Yunxiao Chen. Jan – Apr 2022 | May 23"
+  },
+  {
+    "objectID": "cv.html#teaching-activity",
+    "href": "cv.html#teaching-activity",
+    "title": "Curriculum Vitae",
+    "section": "Teaching activity",
+    "text": "Teaching activity\n\nAcademic year 2024/2025\n\nLaboratory of Statistics and Mathemathics (Teaching assistant, 12h) Master degree in International marketing, management and organization – Univeristy of Udine.\nStatistica di base (Teaching assistant, 12h) Bachelor degree in economics – Univeristy of Udine."
+  },
+  {
+    "objectID": "cv.html#organization-of-scientific-events",
+    "href": "cv.html#organization-of-scientific-events",
+    "title": "Curriculum Vitae",
+    "section": "Organization of scientific events",
+    "text": "Organization of scientific events\nCo-organizer of “HackTheGene”, a genomics-themed hackathon hosted by the Department of Statistical Sciences of the University of Padova in September 2022.  Univeristy of Padova"
+  },
+  {
+    "objectID": "cv.html#institutional-roles",
+    "href": "cv.html#institutional-roles",
+    "title": "Curriculum Vitae",
+    "section": "Institutional roles",
+    "text": "Institutional roles\nServed as student representative in the PhD faculty board 2019-2022."
   }
 ]

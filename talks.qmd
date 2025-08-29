@@ -6,6 +6,7 @@ title: "Talks & Posters"
 
 ### 2025:
 - Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited) <p class="text-primary"> *Data Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.*
+- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
 - A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium, February, 2025.*
 <p><div>
 <button type="button" class="btn btn-outline-primary">[R Package ](https://giuseppealfonzetti.github.io/lavaan.pl/)</button>  

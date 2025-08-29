@@ -1,0 +1,101 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Giuseppe Alfonzetti
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+giuseppealfonzetti@uniud.it
+:::
+
+## Academic positions
+**Postdoctoral researcher** <br> *Univeristy of Udine* [*2023 --- ongoing*]{.cvdate}
+
+## Articles in refereed journals
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p>
+
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association.*<p>
+
+## Invited Talks
+- Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models <p class="text-primary"> *Data Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.*<p>
+- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
+- Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *CCDA2024, London, UK. October, 2024.*<p>
+-  A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. <p class="text-primary"> *COMPSTAT2022 , Bologna, Italy. August, 2022.* <p>
+
+## Publications in monographs
+- **Alfonzetti, G.**, Rossi, L., Zorzetto, D., Mealli, F. (2025). Model Free Estimation of Causal Effects of Different Stimuli on Neuron Activities. In *Advances in Neural Data Science* (Canale, A., Luati, A., Mazzuco, S., Piccarreta, R., Sartori, N., Secchi, P., editors). Springer.
+
+## Proceedings
+- **Alfonzetti, G.**, Bellio, R., (2024). Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary">*Proceedings of the Statistics and Data Science 2024 Conference.*<p>
+- **Alfonzetti, G.**, Grassetti, L., Rizzi, L., (2023). Propensity towards master's degree: choices of northern students after bas? <p class="text-primary">*Book of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.*<p>
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary">*Proceedings of the 37th International Workshop on Statistical Modelling.*<p>
+- **Alfonzetti, G.**, Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. <p class="text-primary">*Proceedings of the 36th International Workshop on Statistical Modelling.*<p>
+- **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
+- **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>
+
+## Conference talks
+- A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium. February, 2025.*
+- Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic. July, 2024.* <p>
+- Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy. April, 2024.* <p>
+- Enhancing public decision making via large-scale graphical model <p class="text-primary"> *AQMAPPS2023, Milano, Italy, October, 2023.* <p>
+- Propensity towards master's degree: choices of northern students after bas? <p class="text-primary"> *CLADAG2023, Salerno, Italy. September, 2023.* <p>
+- Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary"> *IWSM2023, Dortmund, Germany. July, 2023.* <p>
+- Enhancing public decision making via large-scale graphical model <p class="text-primary"> *AQMAPPS2023, Milano, Italy, October, 2023.* <p>
+- Propensity towards master's degree: choices of northern students after bas? <p class="text-primary"> *CLADAG2023, Salerno, Italy. September, 2023.* <p>
+- Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary"> *IWSM2023, Dortmund, Germany. July, 2023.* <p>
+- Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*SIS2022, Caserta, Italy. June, 2022.*<p>
+
+## Posters
+- A stochastic optimization algorithm for pairwise likelihood estimation of factor models with ordinal data. **Alfonzetti, G.**, Bellio, R., Chen Y., Moustaki, I. <p class="text-primary">*Statistical methods and models for complex data, Padua, Italy. September, 2022.*<p>
+- Reliable generalized linear latent variable models estimation via simulated maximum likelihood. **Alfonzetti, G.**, Bellio, R. <p class="text-primary">*IWSM, Trieste, Italy. July, 2022.*<p>
+
+
+## Education
+
+**Ph.D -- Statistics** <br> *Univeristy of Padova* [*2019 --- 2023*]{.cvdate}
+
+-  Thesis topic: Stochastic estimation methods for
+latent variable models. 
+-   Advisors: Ruggero Bellio, Irini Moustaki (Co-
+advisor) and Yunxiao Chen (Co-advisor).
+-  Focus on: Factor models; Composite likelihood;
+Stochastic optimisation
+
+**M.Sc. -- Economics** <br> *Univeristy of Udine* [*2019 --- 2023*]{.cvdate}
+
+-  Thesis topic: Deepening Spatial Heterogeneity
+of Elderly Healthcare Burden Evolution. 
+-   Advisor: Laura Rizzi.
+-  Double degree program with Karl-Franzens-
+Universität - Graz, Austria.
+
+## Visiting Periods
+Department of Statistics of the London School of Eco-nomics. Visiting researcher under the supervision of Prof.Irini Moustaki and Dr. Yunxiao Chen. [*Jan -- Apr 2022 | May 23*]{.cvdate}
+
+
+## Teaching activity
+#### Academic year 2024/2025
+- **Laboratory of Statistics and Mathemathics** [*(Teaching assistant, 12h)*]{.cvdate}<br> Master degree in International marketing, management and organization -- Univeristy of Udine.
+
+- **Statistica di base** [*(Teaching assistant, 12h)*]{.cvdate}<br> Bachelor degree in economics -- Univeristy of Udine.
+
+## Organization of scientific events
+Co-organizer of "HackTheGene", a genomics-themed hackathon hosted by the Department of Statistical Sciences of the University of Padova in September 2022.
+<br> *Univeristy of Padova*
+
+## Institutional roles
+Served as student representative in the PhD faculty board 2019-2022.
+
+<!-- ::: {.no-print}
+:::
+
+::: {.print-only}
+
+::: -->
+
