@@ -45,7 +45,7 @@ giuseppealfonzetti.github.io
 - **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
 - **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>
 
-## Contributed Conference Talks
+## Contributed Talks
 - A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium. February, 2025.*
 - Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic. July, 2024.* <p>
 - Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy. April, 2024.* <p>

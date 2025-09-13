@@ -187,5 +187,12 @@
     "title": "Curriculum Vitae",
     "section": "Invited Conference Talks",
     "text": "Invited Conference Talks\n\nScalable Composite Likelihood Estimation of Categorical Data Models with Crossed Random Effects\n\nCLADAG 2025, Naples, Italy. September, 2025.\n\nFast M-Estimation for Exploratory Generalized Linear Latent Variable Models\n\nData Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.\n\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nCCDA2024, London, UK. October, 2024.\n\nA stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data.\n\nCOMPSTAT2022 , Bologna, Italy. August, 2022."
+  },
+  {
+    "objectID": "cv.html#contributed-talks",
+    "href": "cv.html#contributed-talks",
+    "title": "Curriculum Vitae",
+    "section": "Contributed Talks",
+    "text": "Contributed Talks\n\nA {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data\n\nPsychoco 2025, Ghent, Belgium. February, 2025.\nPairwise stochastic approximation for confirmatory factor analysis of categorical data\n\nIMPS2024, Prague, Czech Republic. July, 2024.\n\nScalable bootstrap inference via averaged Robbins-Monro approximations.\n\nSDS2024, Palermo, Italy. April, 2024.\n\nEnhancing public decision making via large-scale graphical model\n\nAQMAPPS2023, Milano, Italy, October, 2023.\n\nPropensity towards master’s degree: choices of northern students after bas?\n\nCLADAG2023, Salerno, Italy. September, 2023.\n\nEfficient stochastic learning of graphical structures for large-scale mixed data surveys.\n\nIWSM2023, Dortmund, Germany. July, 2023.\n\nSome advances on pairwise likelihood estimation in ordinal data latent variable models.\n\nSIS2022, Caserta, Italy. June, 2022."
   }
 ]
