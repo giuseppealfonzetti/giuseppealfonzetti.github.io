@@ -22,11 +22,15 @@ giuseppealfonzetti@uniud.it
 
 - **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association.*<p>
 
-## Invited Talks
+## Invited Conference Talks
+- Scalable Composite Likelihood Estimation of Categorical Data Models with Crossed Random Effects <p class="text-primary"> *CLADAG 2025, Naples, Italy. September, 2025.*<p>
 - Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models <p class="text-primary"> *Data Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.*<p>
-- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
 - Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *CCDA2024, London, UK. October, 2024.*<p>
 -  A stochastic optimisation algorithm for pairwise likelihood estimation of factor models with ordinal data. <p class="text-primary"> *COMPSTAT2022 , Bologna, Italy. August, 2022.* <p>
+
+## Invited Seminars
+- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
+- On the estimation of latent trait models. <p class="text-primary">*Social Statistics meetings, London School of Economics, London, UK. February 17, 2022.*<p>
 
 ## Publications in monographs
 - **Alfonzetti, G.**, Rossi, L., Zorzetto, D., Mealli, F. (2025). Model Free Estimation of Causal Effects of Different Stimuli on Neuron Activities. In *Advances in Neural Data Science* (Canale, A., Luati, A., Mazzuco, S., Piccarreta, R., Sartori, N., Secchi, P., editors). Springer.
@@ -39,13 +43,10 @@ giuseppealfonzetti@uniud.it
 - **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
 - **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>
 
-## Conference talks
+## Contributed Conference Talks
 - A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium. February, 2025.*
 - Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary"> *IMPS2024, Prague, Czech Republic. July, 2024.* <p>
 - Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary"> *SDS2024, Palermo, Italy. April, 2024.* <p>
-- Enhancing public decision making via large-scale graphical model <p class="text-primary"> *AQMAPPS2023, Milano, Italy, October, 2023.* <p>
-- Propensity towards master's degree: choices of northern students after bas? <p class="text-primary"> *CLADAG2023, Salerno, Italy. September, 2023.* <p>
-- Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary"> *IWSM2023, Dortmund, Germany. July, 2023.* <p>
 - Enhancing public decision making via large-scale graphical model <p class="text-primary"> *AQMAPPS2023, Milano, Italy, October, 2023.* <p>
 - Propensity towards master's degree: choices of northern students after bas? <p class="text-primary"> *CLADAG2023, Salerno, Italy. September, 2023.* <p>
 - Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary"> *IWSM2023, Dortmund, Germany. July, 2023.* <p>
@@ -76,7 +77,7 @@ of Elderly Healthcare Burden Evolution.
 Universität - Graz, Austria.
 
 ## Visiting Periods
-Department of Statistics of the London School of Eco-nomics. Visiting researcher under the supervision of Prof.Irini Moustaki and Dr. Yunxiao Chen. [*Jan -- Apr 2022 | May 23*]{.cvdate}
+Department of Statistics of the London School of Eco-nomics. Visiting researcher under the supervision of Prof. Irini Moustaki and Dr. Yunxiao Chen. [*Jan -- Apr 2022 | May 23*]{.cvdate}
 
 
 ## Teaching activity
