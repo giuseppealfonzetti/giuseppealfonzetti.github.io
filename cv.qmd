@@ -11,7 +11,9 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-giuseppealfonzetti@uniud.it
+giuseppe.alfonzetti@uniud.it
+
+giuseppealfonzetti.github.io
 :::
 
 ## Academic positions
