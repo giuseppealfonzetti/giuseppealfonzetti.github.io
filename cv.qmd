@@ -3,11 +3,8 @@ title: "Curriculum Vitae"
 format:
   html:
     toc: true
-  pdf:
-    author: Giuseppe Alfonzetti
-    pdf-engine: weasyprint
 css: cv.css
-format-links: [pdf]
+
 ---
 
 ::: {.print-only .contact-block}
@@ -20,9 +17,11 @@ giuseppealfonzetti.github.io
 **Postdoctoral researcher** <br> *Univeristy of Udine* [*2023 --- ongoing*]{.cvdate}
 
 ## Articles in refereed journals
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology, 78(1), 22-43.*<p>
+- **Alfonzetti, G.**, Bellio, R., (2025). Scalable Inference via Averaged Robbins-Monro Bootstrap. <p class="text-primary">*Applied Stochastic Models in Business and Industry.*<p> 
 
 - **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association, Forthcoming.*<p>
+
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology, 78(1), 22-43.*<p>
 
 ## Invited Conference Talks
 - Scalable Composite Likelihood Estimation of Categorical Data Models with Crossed Random Effects <p class="text-primary"> *CLADAG 2025, Naples, Italy. September, 2025.*<p>

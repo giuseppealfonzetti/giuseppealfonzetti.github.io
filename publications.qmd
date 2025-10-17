@@ -1,21 +1,34 @@
 ---
-title: "Publications"
+title: "Research"
 ---
 
-## Working Papers
-- **Alfonzetti, G.**, Bellio R., (2025+). Scalable inference via averaged Robbins-Monro
-bootstrap.
+## Working papers
+- **Alfonzetti, G.**, Blanc, G., Guerrier, S., Victoria-Feser, M.P., (2026+) Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models in High Dimensions
+
+- **Alfonzetti, G.**, Bellio, R., Vidoni, P., (2026+) Computing an agreement measure for crowdsourcing in information retrieval by accurate estimation of a two-way beta regression model
+
+- **Alfonzetti, G.**, Battauz, M., (2026+) A joint model for academic outcomes and students' performance with informative censoring
+
+- **Alfonzetti, G.**, Attanasio, M., Grassetti, L., Rizzi, L., (2026+) Dealing with attractiveness and retention of master students: a university perspective in Northern Italy
+
 
 ## Articles in refereed journals
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p> <p><div>
-<button type="button" class="btn btn-outline-primary">[Journal](https://doi.org/10.1111/bmsp.12347)</button>  
-<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experimentsSTOPLFA/tree/main)</button>
+- **Alfonzetti, G.**, Bellio, R., (2025). Scalable Inference via Averaged Robbins-Monro Bootstrap. <p class="text-primary">*Applied Stochastic Models in Business and Industry.*<p> <p><div>
+<button type="button" class="btn btn-outline-primary">[Journal](https://doi.org/10.1002/asmb.70046)</button>  
+<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/armb_experiments)</button>
 </div>
 
 - **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). When Composite Likelihood meets Stochastic Approximation <p class="text-primary">*Journal of the American Statistical Association.*<p> <p><div>
 <button type="button" class="btn btn-outline-primary">[Journal](https://doi.org/10.1080/01621459.2024.2436219)</button>  
-<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experiments_stoCL/tree/main)</button>
+<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experiments_stoCL/)</button>
 </div>
+
+- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2025). Pairwise stochastic approximation for confirmatory factor analysis of categorical data <p class="text-primary">*British Journal of Mathematical and Statistical Psychology.*<p> <p><div>
+<button type="button" class="btn btn-outline-primary">[Journal](https://doi.org/10.1111/bmsp.12347)</button>  
+<button type="button" class="btn btn-outline-primary">[GitHub](https://github.com/giuseppealfonzetti/experimentsSTOPLFA/)</button>
+</div>
+
+
 
 ## Publications in monographs
 - **Alfonzetti, G.**, Rossi, L., Zorzetto, D., Mealli, F. (2025). Model Free Estimation of Causal Effects of Different Stimuli on Neuron Activities. In *Advances in Neural Data Science* (Canale, A., Luati, A., Mazzuco, S., Piccarreta, R., Sartori, N., Secchi, P., editors). Springer.
@@ -25,23 +38,3 @@ bootstrap.
 </div>
  
 
-## Proceedings
-### 2024:
-- **Alfonzetti, G.**, Bellio, R., (2024). Scalable bootstrap inference via averaged Robbins-Monro approximations. <p class="text-primary">*Proceedings of the Statistics and Data Science 2024 Conference.*<p><button type="button" class="btn btn-outline-primary">[ISBN 978-88-5509-645-4](https://unipapress.com/book/proceedings-of-the-statistics-and-data-science-2024-conference/)</button>
-
-### 2023:
-- **Alfonzetti, G.**, Grassetti, L., Rizzi, L., (2023). Propensity towards master's degree: choices of northern students after bas? <p class="text-primary">*Book of short papers of the 14th Scientific Meeting of the Classification and Data Analysis Group.*<p><button type="button" class="btn btn-outline-primary">[ISBN 978-88-9193-563-2](https://air.uniud.it/handle/11390/1262890)</button>
-
-- **Alfonzetti, G.**, Bellio, R., Chen, Y., Moustaki, I., (2023). Efficient stochastic learning of graphical structures for large-scale mixed data surveys. <p class="text-primary">*Proceedings of the 37th International Workshop on Statistical Modelling.*<p>
-<button type="button" class="btn btn-outline-primary">[ISBN 78-3-947323-42-5](https://iwsm2023.statistik.tu-dortmund.de/storages/iwsm2023-statistik/r/dokumente/IWSM_2023_Conference_Proceedings.pdf)</button>
-
-### 2022:
-- **Alfonzetti, G.**, Bellio, R. (2022). Reliable generalized linear latent variable models estimation via simulated maximum likelihood. <p class="text-primary">*Proceedings of the 36th International Workshop on Statistical Modelling.*<p>
-<button type="button" class="btn btn-outline-primary">[ISBN 978-88-5511-309-0](https://www.openstarts.units.it/handle/10077/33740)</button>
-
-- **Alfonzetti, G.**, Bellio, R. (2022). Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*Book of Short Papers SIS2022.*<p>
-<button type="button" class="btn btn-outline-primary">[ISBN  978-88-9193-231-0](https://it.pearson.com/docenti/universita/partnership/sis.html)</button>
-
-### 2019:
-- **Alfonzetti, G.**, Rizzi, L., Grassetti, L., Gobbato, M. (2019). Observed expenditures vs estimated burden of health care: a comparative evaluation based on spatial analysis. <p class="text-primary">*Book of Short Papers ASA2019.*<p>
-<button type="button" class="btn btn-outline-primary">[ISBN  978-88-5495-135-8](https://air.uniud.it/handle/11390/1168519?mode=complete)</button>
