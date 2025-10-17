@@ -14,5 +14,8 @@
   "cv.qmd": {
     "cv.html": "661d3a7d",
     "cv.pdf": "64020c9b"
+  },
+  "teaching.qmd": {
+    "teaching.html": "88f3a22a"
   }
 }

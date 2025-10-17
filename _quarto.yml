@@ -12,6 +12,8 @@ website:
         text: Talks & Posters
       - href: cv.qmd
         text: Resume
+      - href: teaching.qmd
+        text: Teaching
       # - icon: file-pdf
       #   text: Resume
       #   href: https://github.com/giuseppealfonzetti/giuseppealfonzetti.github.io/raw/main/resources/cv/alfonzetti_cv.pdf

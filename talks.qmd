@@ -6,7 +6,6 @@ title: "Talks & Posters"
 
 ### 2025:
 - Fast M-Estimation for Exploratory Generalized Linear Latent Variable Models (Invited) <p class="text-primary"> *Data Analytics Lab Workshop 2025, Ovronnaz, Switzerland. May, 2025.*
-- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
 - A {lavaan} Extension for fast pairwise likelihood estimation of factor models for categorical data <p class="text-primary"> *Psychoco 2025, Ghent, Belgium, February, 2025.*
 <p><div>
 <button type="button" class="btn btn-outline-primary">[R Package ](https://giuseppealfonzetti.github.io/lavaan.pl/)</button>  
@@ -29,12 +28,15 @@ title: "Talks & Posters"
 
 - Some advances on pairwise likelihood estimation in ordinal data latent variable models. <p class="text-primary">*SIS2022, Caserta, Italy. June, 2022.*<p>
 
+## Seminars
+### 2025:
+- When composite likelihood meets stochastic approximations <p class="text-primary"> *Ca’ Foscari University of Venice, Italy. March, 2025.*<p>
+### 2022:
+- On the estimation of latent trait models. <p class="text-primary">*Social Statistics meetings, London School of Economics, London, UK. February 17, 2022.*<p>
+
 ## Posters
 ### 2022:
 - A stochastic optimization algorithm for pairwise likelihood estimation of factor models with ordinal data. **Alfonzetti, G.**, Bellio, R., Chen Y., Moustaki, I. <p class="text-primary">*Statistical methods and models for complex data, Padua, Italy. September, 2022.*<p>
 
 - Reliable generalized linear latent variable models estimation via simulated maximum likelihood. **Alfonzetti, G.**, Bellio, R. <p class="text-primary">*IWSM, Trieste, Italy. July, 2022.*<p>
 
-## Seminars
-### 2022:
-- On the estimation of latent trait models. <p class="text-primary">*Social Statistics meetings, London School of Economics, London, UK. February 17, 2022.*<p>

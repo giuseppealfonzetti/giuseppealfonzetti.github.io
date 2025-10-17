@@ -1,0 +1,8 @@
+---
+title: "Teaching"
+---
+
+## Academic year 2025/2026
+Teaching material for:
+
+- [Laboratory of Statistics and Mathemathics](https://giuseppealfonzetti.github.io/LSM/) *Master degree in International marketing, management and organization -- Univeristy of Udine*.
